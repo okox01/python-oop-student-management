@@ -75,7 +75,7 @@ python main.py
 ---
 
 
-🎯 Learning Purpose
+## 🎯 Learning Purpose
 
 ```
 This project was built to strengthen foundational OOP skills before moving into:
@@ -92,7 +92,7 @@ Machine Learning Model Structuring
 ---
 
 
-📈 Future Improvements (Optional Enhancements)
+## 📈 Future Improvements (Optional Enhancements)
 ```
 Save data to file (CSV/JSON)
 
@@ -107,7 +107,7 @@ Build a web version using Flask
 ```
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 ```
 Sami
