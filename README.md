@@ -53,25 +53,28 @@ python-oop-student-management/
 ```bash
 git clone https://github.com/okox01/python-oop-student-management.git
 
+```
 ---
 
 ## Run the Program
 
+```
 python main.py
-
+```
 ---
 
 ## 🖥 Example Menu
 
-
+```
 ===== Student Management System =====
 1. Add Student
 2. Add Graduate
 3. View Students
 4. Exit
-
+```
 ---
 
+```
 🎯 Learning Purpose
 
 This project was built to strengthen foundational OOP skills before moving into:
@@ -84,9 +87,10 @@ Backend or Automation Projects
 
 Machine Learning Model Structuring
 
-
+```
 ---
 
+```
 📈 Future Improvements (Optional Enhancements)
 
 Save data to file (CSV/JSON)
@@ -99,10 +103,14 @@ Convert to GUI using Tkinter
 
 Build a web version using Flask
 
+```
 ---
 
 👨‍💻 Author
 
+```
 Sami
 CSE Student | Aspiring Data Scientist
 Python • Pandas • NumPy • SQL • Machine Learning (in progress)
+
+```
