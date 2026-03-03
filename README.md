@@ -74,9 +74,10 @@ python main.py
 ```
 ---
 
-```
+
 🎯 Learning Purpose
 
+```
 This project was built to strengthen foundational OOP skills before moving into:
 
 Data Analysis with Pandas
@@ -90,9 +91,9 @@ Machine Learning Model Structuring
 ```
 ---
 
-```
-📈 Future Improvements (Optional Enhancements)
 
+📈 Future Improvements (Optional Enhancements)
+```
 Save data to file (CSV/JSON)
 
 Add update/delete student functionality
